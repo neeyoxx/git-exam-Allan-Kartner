@@ -1,8 +1,11 @@
+Petite info la différence entre git reset et git revert c'est tout simplement que git reset déplace la référence de la branche head et supprime les commits de l'historique et git revert va créer un nouveau commit qui annule les modifications du commit précédent
+
+
 ## Consignes
 
 Vous travaillez en groupe sur un dépôt GitHub pour produire un site web en Golang.
 
-Le site affiche pour le moment une page vide. Deux fonctionnalités seront développées en parallèle, depuis la branche `dev` déjà existante (voir schéma de l’état initial du dépôt).
+Le site affiche pour le moment une page vide. Un nombre très long seront développées en parallèle, depuis la branche `dev` déjà existante (voir schéma de l’état initial du dépôt).
 
 La première est l’affichage de l’URL visitée par l’utilisateur, dans la branche `feature-url`, où la branche est déjà créée et le développement est terminé. La seconde fonctionnalité est l’affichage d’une page en couleur, dans la branche `feature-color` qui devra être créée et développée par vous.
 

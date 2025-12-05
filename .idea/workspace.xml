@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="025a4ed5-39cd-4e88-a990-50acd5ecef71" name="Changes" comment="Exercice 2" />
+    <list default="true" id="025a4ed5-39cd-4e88-a990-50acd5ecef71" name="Changes" comment="q">
+      <change afterPath="$PROJECT_DIR$/Exo 6" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "neeyoxx"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;neeyoxx&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/neeyoxx/git-exam-Allan-Kartner.git",
-    "accountId": "f6c5955a-d56a-4777-9c0e-a8a74ec31236"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/neeyoxx/git-exam-Allan-Kartner.git&quot;,
+    &quot;accountId&quot;: &quot;f6c5955a-d56a-4777-9c0e-a8a74ec31236&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="36QS9vBlxbyhYMNBc4y2GnNc0Jg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,6 +55,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -86,7 +89,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercice 1" />
     <MESSAGE value="Exercice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 2" />
+    <MESSAGE value="Merge branch 'refs/heads/dev'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

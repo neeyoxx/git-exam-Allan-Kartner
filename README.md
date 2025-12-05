@@ -1,3 +1,6 @@
+Petite info la différence entre git reset et git revert c'est tout simplement que git reset déplace la référence de la branche head et supprime les commits de l'historique et git revert va créer un nouveau commit qui annule les modifications du commit précédent
+
+
 ## Consignes
 
 Vous travaillez en groupe sur un dépôt GitHub pour produire un site web en Golang.
